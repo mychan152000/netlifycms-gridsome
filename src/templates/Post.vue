@@ -59,7 +59,6 @@ query Post ($id: ID!) {
   post: post (id: $id) {
     title
     path
-    timeToRead
     tags {
       id
       title
