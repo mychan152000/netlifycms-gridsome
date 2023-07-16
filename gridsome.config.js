@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Netlify CMS Gridsome starter template',
-  siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.',
+  siteName: 'Coding blog',
+  siteDescription: "A simple, & minimalistic blog for me to save whatever I've researched",
 
   templates: {
     Post: '/:title',
